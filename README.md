@@ -1,2 +1,2 @@
 # YoutubeQandA
-A langchain model answer any question related to given Youtube video.
+Have questions while watching a YouTube video? Simply paste the video URL and receive real-time answers to your queries.
